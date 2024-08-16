@@ -1,4 +1,12 @@
-<<<<<<< HEAD
+Here you may find my React portfolio project with responsive design.
+
+![1](https://github.com/user-attachments/assets/0a1ab5d0-55d8-44cd-afa6-56ef1b0663bb)
+
+![3](https://github.com/user-attachments/assets/7be306aa-eed6-4061-97e5-813146af6ef9)
+
+![2](https://github.com/user-attachments/assets/20b9a27d-bbcf-4525-93f5-9560d4d08d8d)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
