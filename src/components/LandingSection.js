@@ -16,7 +16,12 @@ const LandingSection = () => (
   >
     <VStack spacing={16}>
       <VStack spacing={4}>
-      <img src={keremPic} alt="Kerem's Picture"  style={{ width: '200px', height: '200px', borderRadius: '10px' }}/>
+      <img src={keremPic} alt="Kerem's Picture" style={{ 
+      width: '200px',
+      height: '200px', 
+      borderRadius: '50%',
+      objectFit: 'cover'
+    }} />
         <Heading size="md">{greeting}</Heading>
       </VStack>
       <VStack spacing={6}>
